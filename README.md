@@ -1,6 +1,5 @@
 # flow-constraints-map
-Flow Constraints Map
-This repository hosts an interactive map visualizing flow constraints for various dams. The map provides essential data on reservoir levels, releases, river flow, and other operational constraints, making it a useful tool for researchers, engineers, and decision-makers.
+This repository hosts an interactive map visualizing flow constraints for various dams. The map provides essential data on reservoir levels, releases, river flow, and other operational constraints, making it a useful for researchers, engineers, and decision-makers.
 
 📌 Features
 Interactive Markers: Each dam location is marked on the map.
